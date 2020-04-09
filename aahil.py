@@ -215,7 +215,7 @@ def super():
 	os.system('clear')
 	print logo
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;36m Fuck Usa Accounts"
+	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;36m Fuck Usa Accounts"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Back"
 	pilih_super()
 
