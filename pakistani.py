@@ -73,7 +73,7 @@ logo2 = """
 ██████╔╝██╗██║░╚██╗██║░░██║██║░░██║██║░╚███║
 ╚═════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
 MERE ZINDAGI MAI AIK HE OSOOL HAI BARDASHT KARNA BSS!SUFYAN AHMAD
-
+"""
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
